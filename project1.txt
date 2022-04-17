@@ -1,1 +1,8 @@
 git respository intialization
+1.git init
+2.git branch -M main
+3.git remote add origin https://github.com/RUCHITHACHAMATAM/demo17-4-22.git
+4.git add .
+5.git commit -m "myfirstcommit"
+6.git push -u origin main 
+
